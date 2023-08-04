@@ -42,7 +42,7 @@ header {
 
 .top-wrapper {
     padding: 180px 0;    
-    background-image: url(https://github.com/blueMogi/portfolio/blob/main/coffee.JPG?raw=true);
+    background-image: url("https://github.com/blueMogi/portfolio/blob/main/coffee.JPG?raw=true");
     background-color: rgba(255, 255, 255, 0.1);
     background-blend-mode: lighten;
     background-size: cover;
